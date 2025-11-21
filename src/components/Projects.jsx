@@ -23,8 +23,8 @@ function Projects() {
               title="WeSigned"
               description="Full-stack attendance app with online/offline support and anti-impersonation features."
               tech={["React", "Node.js", "Express", "MongoDB", "Vite", "Tailwind"]}
-              demo="https://we-signed-frontend-wu9w.vercel.app/"
-              repo="https://github.com/kingsley-4123/WeSigned-Frontend"
+              demo="https://we-signed.vercel.app/"
+              repo="https://github.com/kingsley-4123/we-signed"
             />
             <div className="text-gray-300 text-sm">Role: Full-stack developer • Timeline: 4 months • Highlights: offline QR flow, location verification, device fingerprinting, session management.</div>
           </div>
